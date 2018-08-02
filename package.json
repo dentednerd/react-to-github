@@ -1,0 +1,33 @@
+{
+  "name": "react-to-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dentednerd/react-to-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dentednerd/react-to-github/issues"
+  },
+  "homepage": "https://github.com/dentednerd/react-to-github#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.6",
+    "colors": "^1.3.0"
+  },
+  "bin": {
+    "react-to-github": "index.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
