@@ -1,6 +1,6 @@
 # react-to-github
 
-Sets up a React app and deploys to Github Pages.
+Sets up a React app and deploys to Github Pages with zero configuration.
 
 Ideal for developers new to React wishing to quickly get a project started.
 
