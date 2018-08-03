@@ -6,7 +6,7 @@ Ideal for developers new to React wishing to quickly get a project started.
 
 ## Prerequisites
 
-You must have an Github account, and to have created a repo on Github with the app name you will use during installation.
+You must have an Github account, and to have [created a repo on Github](https://help.github.com/articles/creating-a-new-repository/) with the app name you will use during installation.
 
 You will also need to have installed create-react-app before launching:
 
