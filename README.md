@@ -2,7 +2,7 @@
 
 Sets up a React app and deploys to Github Pages.
 
-Ideal for quickly getting a project started with zero configuration needed.
+Ideal for developers new to React wishing to quickly get a project started.
 
 ## Prerequisites
 
